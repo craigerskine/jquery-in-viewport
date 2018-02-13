@@ -6,10 +6,10 @@ Requires jQuery.
 
 ```code
 $(selector).inViewport('#');
-
-selector = your element you'd like to watch
-# = an integer to offset the tolerance
 ```
+selector = your element you'd like to watch  
+    # = an integer to offset the tolerance
+
 ### Example
 
 ```javascript
