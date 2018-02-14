@@ -23,3 +23,5 @@ $(window).on('resize scroll', function() {
   });
 });
 ```
+
+This will add a class called "inview" to the .blah elements after they are 150px inside the viewport on browser scroll and/or resize.
