@@ -1,5 +1,3 @@
-# jquery.inviewport.js
-
 Requires jQuery.
 
 ### Usage
